@@ -1,0 +1,4 @@
+[dependencies]
+sysinfo = "0.33"
+rayon = "1.10"
+colored = "2.1"
